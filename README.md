@@ -56,6 +56,7 @@ Selenium WebDriver
 Maven
 
 Page Object Model (POM)
+
 Conclusion:
 
 This project ensures the WriteWave application meets high standards of quality, usability, and performance by implementing manual and automated testing methodologies, identifying critical bugs, and collaborating effectively with developers.
