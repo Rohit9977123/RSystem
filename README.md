@@ -4,6 +4,11 @@ WriteWave Application Testing
 
 The WriteWave Application is an advanced collaborative writing platform designed for seamless content creation and real-time collaboration. This project aims to ensure the application's functionality, usability, and performance through comprehensive manual and automated testing. By validating key features and identifying potential bugs, we enhance the user experience and contribute to a robust platform.
 
+Documentation Link : https://drive.google.com/drive/folders/1tJf4kw4J_yThvm_Avzx5irn-w83iPZp-?usp=sharing
+
+Explanation video link: https://vimeo.com/1066070014?share=copy
+
+
 🛠️ Project Type
 
 🔹 Automation & Manual Testing
